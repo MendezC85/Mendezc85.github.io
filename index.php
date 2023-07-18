@@ -21,5 +21,7 @@
     {
         $controlador=$ruta->CargarControlador(CONTROLADOR_PRINCIPAL);
         $ruta->CargarAccion($controlador, ACCION_PRINCIPAL);
-    }
+    }?>
+
+
 
